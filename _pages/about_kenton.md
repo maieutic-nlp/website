@@ -1,0 +1,1 @@
+Dr. Murray directs the MAIEUTIC Lab and is broadly interested in multilingual natural language processing and AI. He received his PhD in 2020 from the University of Notre Dame advised by [David Chiang](https://www3.nd.edu/~dchiang/).
