@@ -1,0 +1,1 @@
+Tianjian did his Master's working with Dr. Murray working on algorithms to account for dataset imbalances and distribution shifts for training foundational models. He did his undergrad at NYU and has continued at JHU working on a PhD with Daniel Khasabi.

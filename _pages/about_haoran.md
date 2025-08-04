@@ -1,0 +1,1 @@
+Dr. Xu received his PhD in 2024 and was advised by Kenton Murray and Philipp Koehn. His dissertation focused on various ways to solve the curse-of-multilinguality. He joined Microsoft GenAI as a Senior Research Scientist.

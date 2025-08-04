@@ -1,0 +1,1 @@
+Stella was a bachelor's and master's student in the lab who worked on code-switching. After graduating, she joined UW to pursue a PhD working with [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). You can find out more about her work [here](https://stellalisy.com/).
