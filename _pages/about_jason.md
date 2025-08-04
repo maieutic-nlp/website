@@ -1,0 +1,1 @@
+Jason is a Master's student working on Retrieval Augmented Generation with a particular focus on multimodal content and how images are impacted by language and culture in AI systems. He also works heavily on robotics and sports analytics. He did his undergrad at UC Berkeley.
