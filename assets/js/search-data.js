@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "A sampling of the public GitHub repositories and accounts for members of the MAIEUTIC Lab. We have a lot more work on HuggingFace, personal websites, and GitLab (and a lot of other places as well).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/website/repositories/";
@@ -515,7 +515,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=JuP-xF8AAAAJ", "_blank");
         },
       },{
         id: 'social-custom_social',
