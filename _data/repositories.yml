@@ -1,14 +1,23 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - KentonMurray
+  - fe1ixxu
+  - nverma1
+  - n8rob
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - fe1ixxu/ALMA
+  - niyatibafna/dialup
+  - fe1ixxu/CPO_SIMPO
+  - tianjianl/crosslingual_generation
+  - KentonMurray/ProxGradPytorch
+  - fe1ixxu/Stratified_Mixture_of_Experts
+  - allenai/pnp
+  - KentonMurray/Buckwalter
+  - JHU-CLSP/Select-Topics-In-Multilingual-NLP
+  - JHU-CLSP/Kreyol-MT
+  - hltcoe/ColBERT-X
+  - fe1ixxu/Intra-Distillation
+  - fe1ixxu/BiBERT
+  - fe1ixxu/Gradual-Finetune
