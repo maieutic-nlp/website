@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Materials for courses taught by members of the lab.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/website/teaching/";
@@ -433,6 +433,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/website/books/the_godfather/";
+            },},{id: "classes-class-1",
+          title: 'class 1',
+          description: "with background image",
+          section: "Classes",handler: () => {
+              window.location.href = "/website/classes/1_project/";
+            },},{id: "classes-project-2",
+          title: 'project 2',
+          description: "a project with a background image and giscus comments",
+          section: "Classes",handler: () => {
+              window.location.href = "/website/classes/2_project/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
