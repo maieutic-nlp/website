@@ -50,8 +50,8 @@ profiles:
     content: about_aidan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Xiaojian (Jason) Sun</p>
-      <p>Master's Student</p>
+      <p>Aidan Alme</p>
+      <p>Joint Bachelor's and Master's Student</p>
   - align: left
     image: prof_pic_haoran.jpeg
     content: about_haoran.md
