@@ -52,6 +52,8 @@ profiles:
     more_info: >
       <p>Xiaojian (Jason) Sun</p>
       <p>Master's Student</p>
+---
+### Alumni
   - align: left
     image: prof_pic_nate.avif
     content: about_haoran.md
