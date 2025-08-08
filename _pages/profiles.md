@@ -52,10 +52,8 @@ profiles:
     more_info: >
       <p>Xiaojian (Jason) Sun</p>
       <p>Master's Student</p>
----
-### Alumni
   - align: left
-    image: prof_pic_nate.avif
+    image: prof_pic_haoran.jpeg
     content: about_haoran.md
     image_circular: false # crops the image to make it circular
     more_info: >
