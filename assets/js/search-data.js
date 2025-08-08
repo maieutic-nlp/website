@@ -443,18 +443,15 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Classes",handler: () => {
               window.location.href = "/website/classes/2_project/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-welcome-to-the-new-maieutic-lab-website",
+          title: 'Welcome to the new MAIEUTIC Lab Website.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-1st-magmar-workshop-takes-place-at-acl-2025",
+          title: '1st MAGMaR Workshop takes place at ACL 2025',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/website/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
