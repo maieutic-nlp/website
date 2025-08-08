@@ -39,7 +39,7 @@ profiles:
       <p>Dengjia Zhang</p>
       <p>Master's Student</p>
   - align: left
-    image: prof_pic_nate.jfif
+    image: prof_pic_jason.jfif
     content: about_jason.md
     image_circular: false # crops the image to make it circular
     more_info: >
