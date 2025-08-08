@@ -9,21 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/website/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/website/blog/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/website/projects/";
-          },
-        },{id: "nav-repositories",
+  },{id: "nav-repositories",
           title: "repositories",
           description: "A sampling of the public GitHub repositories and accounts for members of the MAIEUTIC Lab. We have a lot more work on HuggingFace, personal websites, and GitLab (and a lot of other places as well).",
           section: "Navigation",
@@ -44,21 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/website/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/website/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
