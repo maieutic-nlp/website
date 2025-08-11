@@ -5,7 +5,7 @@
 
 
 @inproceedings{xu2024contrastive,
-  abbr={ICLR 2024},
+  abbr={ICML 2024},
   title={Contrastive preference optimization: pushing the boundaries of LLM performance in machine translation},
   author={Xu, Haoran and Sharaf, Amr and Chen, Yunmo and Tan, Weiting and Shen, Lingfeng and Van Durme, Benjamin and Murray, Kenton and Kim, Young Jin},
   booktitle={Proceedings of the 41st International Conference on Machine Learning},
@@ -156,5 +156,17 @@
   abstract={Multilingual machine translation has proven immensely useful for both parameter efficiency and overall performance across many language pairs via complete multilingual parameter sharing. However, some language pairs in multilingual models can see worse performance than in bilingual models, especially in the one-to-many translation setting. Motivated by their empirical differences, we examine the geometric differences in representations from bilingual models versus those from one-to-many multilingual models. Specifically, we compute the isotropy of these representations using intrinsic dimensionality and IsoScore, in order to measure how the representations utilize the dimensions in their underlying vector space. Using the same evaluation data in both models, we find that for a given language pair, its multilingual model decoder representations are consistently less isotropic and occupy fewer dimensions than comparable bilingual model decoder representations. Additionally, we show that much of the anisotropy in multilingual decoder representations can be attributed to modeling language-specific information, therefore limiting remaining representational capacity.},
   pdf={https://aclanthology.org/2024.lrec-main.604.pdf},
   selected={true},  
+}
+
+@inproceedings{li2024error,
+  abbr={ICLR 2024},
+  title={Error norm truncation: Robust training in the presence of data noise for text generation models},
+  author={Li, Tianjian and Xu, Haoran and Koehn, Philipp and Khashabi, Daniel and Murray, Kenton},
+  booktitle={Proceedings of the 12th International Conference on Learning Representations},
+  year={2024},
+  abstract={Text generation models are notoriously vulnerable to errors in the training data. With the wide-spread availability of massive amounts of web-crawled data becoming more commonplace, how can we enhance the robustness of models trained on a massive amount of noisy web-crawled text? In our work, we propose Error Norm Truncation (ENT), a robust enhancement method to the standard training objective that truncates noisy data. Compared to methods that only uses the negative log-likelihood loss to estimate data quality, our method provides a more accurate estimation by considering the distribution of non-target tokens, which is often overlooked by previous work. Through comprehensive experiments across language modeling, machine translation, and text summarization, we show that equipping text generation models with ENT improves generation quality over standard training and previous soft and hard truncation methods. Furthermore, we show that our method improves the robustness of models against two of the most detrimental types of noise in machine translation, resulting in an increase of more than 2 BLEU points over the MLE baseline when up to 50 of noise is added to the data.},
+  selected={true},
+  pdf={https://proceedings.iclr.cc/paper_files/paper/2024/file/3640a1997a4c9571cea9db2c82e1fc35-Paper-Conference.pdf},
+  url= {https://arxiv.org/abs/2310.00840},
 }
 

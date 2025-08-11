@@ -12,6 +12,7 @@ github_repos:
   - fe1ixxu/CPO_SIMPO
   - KentonMurray/ProxGradPytorch
   - fe1ixxu/Stratified_Mixture_of_Experts
+  - tianjianl/error_norm_truncation
   - allenai/pnp
   - KentonMurray/Buckwalter
   - JHU-CLSP/Select-Topics-In-Multilingual-NLP
