@@ -12,7 +12,8 @@
   pages={55204--55224},
   year={2024},
   abstract={Moderate-sized large language models (LLMs) -- those with 7B or 13B parameters -- exhibit promising machine translation (MT) performance. However, even the top-performing 13B LLM-based translation models, like ALMA, does not match the performance of state-of-the-art conventional encoder-decoder translation models or larger-scale LLMs such as GPT-4. In this study, we bridge this performance gap. We first assess the shortcomings of supervised fine-tuning for LLMs in the MT task, emphasizing the quality issues present in the reference data, despite being human-generated. Then, in contrast to SFT which mimics reference translations, we introduce Contrastive Preference Optimization (CPO), a novel approach that trains models to avoid generating adequate but not perfect translations. Applying CPO to ALMA models with only 22K parallel sentences and 12M parameters yields significant improvements. The resulting model, called ALMA-R, can match or exceed the performance of the WMT competition winners and GPT-4 on WMT'21, WMT'22 and WMT'23 test datasets.},
-  selected={true}
+  selected={true},
+  pdf={https://raw.githubusercontent.com/mlresearch/v235/main/assets/xu24t/xu24t.pdf},
 }
 
 @book{einstein1956investigations,
@@ -117,3 +118,43 @@
   preview={wave-mechanics.gif},
   abbr={Vision}
 }
+
+@inproceedings{robinson:hal-04630039,
+  TITLE = {{Kreyòl-MT: Building MT for Latin American, Caribbean and Colonial African Creole Languages}},
+  AUTHOR = {Robinson, Nathaniel and Dabre, Raj and Shurtz, Ammon and Dent, Rasul and Onesi, Onenamiyi and Monroc, Claire Bizon and Grobol, Lo{\"i}c and Muhammad, Hasan and Garg, Ashi and Etori, Naome and Tiyyala, Vijay Murari and Samuel, Olanrewaju and Stutzman, Matthew Dean and Odoom, Bismarck Bamfo and Khudanpur, Sanjeev and Richardson, Stephen and Murray, Kenton},
+  URL = {https://hal.science/hal-04630039},
+  BOOKTITLE = {{Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies}},
+  ADDRESS = {Mexico City, Mexico},
+  ORGANIZATION = {{Association for Computational Linguistics}},
+  EDITOR = {Association for Computational Linguistics},
+  VOLUME = {Volume 1: Long Papers},
+  PAGES = {3083--3110},
+  YEAR = {2024},
+  MONTH = Jun,
+  KEYWORDS = {Computation and Language (cs.CL) ; FOS: Computer and information sciences},
+  PDF = {https://hal.science/hal-04630039v1/file/Creole_Data_Sets__NAACL_2024_.pdf},
+  HAL_ID = {hal-04630039},
+  HAL_VERSION = {v1},
+  abbr={NAACL 2024},
+  abstract={A majority of language technologies are tailored for a small number of high-resource languages, while relatively many low-resource languages are neglected. One such group, Creole languages, have long been marginalized in academic study, though their speakers could benefit from machine translation (MT). These languages are predominantly used in much of Latin America, Africa and the Caribbean. We present the largest cumulative dataset to date for Creole language MT, including 14.5M unique Creole sentences with parallel translations -- 11.6M of which we release publicly, and the largest bitexts gathered to date for 41 languages -- the first ever for 21. In addition, we provide MT models supporting all 41 Creole languages in 172 translation directions. Given our diverse dataset, we produce a model for Creole language MT exposed to more genre diversity than ever before, which outperforms a genre-specific Creole MT model on its own benchmark for 26 of 34 translation directions.},
+  selected={true},
+  pdf={https://arxiv.org/pdf/2405.05376},
+}
+
+@inproceedings{verma-etal-2024-exploring,
+  title = "Exploring Geometric Representational Disparities between Multilingual and Bilingual Translation Models",
+  author = "Verma, Neha and Murray, Kenton and Duh, Kevin",
+  editor = "Calzolari, Nicoletta and Kan, Min-Yen and Hoste, Veronique and Lenci, Alessandro and Sakti, Sakriani  and Xue, Nianwen",
+  booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+  month = may,
+  year = "2024",
+  address = "Torino, Italia",
+  publisher = "ELRA and ICCL",
+  url = "https://aclanthology.org/2024.lrec-main.604/",
+  pages = "6909--6921",
+  abbr={LREC-COLING 2024},
+  abstract={Multilingual machine translation has proven immensely useful for both parameter efficiency and overall performance across many language pairs via complete multilingual parameter sharing. However, some language pairs in multilingual models can see worse performance than in bilingual models, especially in the one-to-many translation setting. Motivated by their empirical differences, we examine the geometric differences in representations from bilingual models versus those from one-to-many multilingual models. Specifically, we compute the isotropy of these representations using intrinsic dimensionality and IsoScore, in order to measure how the representations utilize the dimensions in their underlying vector space. Using the same evaluation data in both models, we find that for a given language pair, its multilingual model decoder representations are consistently less isotropic and occupy fewer dimensions than comparable bilingual model decoder representations. Additionally, we show that much of the anisotropy in multilingual decoder representations can be attributed to modeling language-specific information, therefore limiting remaining representational capacity.},
+  pdf={https://aclanthology.org/2024.lrec-main.604.pdf},
+  selected={true},  
+}
+
