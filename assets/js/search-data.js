@@ -398,16 +398,31 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/website/books/the_godfather/";
-            },},{id: "classes-class-1",
-          title: 'class 1',
-          description: "with background image",
+            },},{id: "classes-",
+          title: '',
+          description: "",
           section: "Classes",handler: () => {
               window.location.href = "/website/classes/1_project/";
-            },},{id: "classes-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "classes-explaining-ai-through-games",
+          title: 'Explaining AI through Games',
+          description: "EN.501.145 (Fall 2025) First Year Seminar",
           section: "Classes",handler: () => {
               window.location.href = "/website/classes/2_project/";
+            },},{id: "classes-data-science-meets-political-science",
+          title: 'Data Science meets Political Science',
+          description: "AS.190.360 (Fall 2025)",
+          section: "Classes",handler: () => {
+              window.location.href = "/website/classes/3_project/";
+            },},{id: "classes-multilingual-methods-in-nlp",
+          title: 'Multilingual Methods in NLP',
+          description: "LING 4466 (Georgetown) (Spring 2024)",
+          section: "Classes",handler: () => {
+              window.location.href = "/website/classes/4_project/";
+            },},{id: "classes-introduction-to-human-language-technology",
+          title: 'Introduction to Human Language Technology',
+          description: "EN 601.467/667 (Every Fall) Deep Learning and MT Lectures",
+          section: "Classes",handler: () => {
+              window.location.href = "/website/classes/5_project/";
             },},{id: "news-welcome-to-the-new-maieutic-lab-website",
           title: 'Welcome to the new MAIEUTIC Lab Website.',
           description: "",
