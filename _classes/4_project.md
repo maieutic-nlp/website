@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Advanced NLP: Multilingual methods
-description: EN 601.764 (Spring 2023, Spring 2024)
-img: assets/img/multilingual.jpg
-importance: 1
-redirect: http://mt-class.org/jhu-multilingual/
+title: Multilingual Methods in NLP
+description: LING 4466 (Georgetown) (Spring 2024)
+img: assets/img/georgetown.jpg
+importance: 4
+redirect: http://mt-class.org/georgetown-multilingual/
 category: work
 related_publications: true
 ---

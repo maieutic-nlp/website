@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Advanced NLP: Multilingual methods
-description: EN 601.764 (Spring 2023, Spring 2024)
-img: assets/img/multilingual.jpg
-importance: 1
-redirect: http://mt-class.org/jhu-multilingual/
+title: Data Science meets Political Science
+description: AS.190.360 (Fall 2025)
+img: assets/img/datascience.jpg
+importance: 3
+redirect: https://maieutic-nlp.github.io/Data-Science-meets-Political-Science/
 category: work
 related_publications: true
 ---

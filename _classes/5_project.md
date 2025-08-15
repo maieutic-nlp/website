@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Advanced NLP: Multilingual methods
-description: EN 601.764 (Spring 2023, Spring 2024)
-img: assets/img/multilingual.jpg
-importance: 1
-redirect: http://mt-class.org/jhu-multilingual/
+title: Introduction to Human Language Technology
+description: EN 601.467/667 (Every Fall) Deep Learning and MT Lectures
+img: assets/img/jhu.jpg
+importance: 5
+redirect: https://jhu-intro-hlt.github.io/
 category: work
 related_publications: true
 ---

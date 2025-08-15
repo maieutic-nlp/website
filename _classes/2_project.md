@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Explaining AI through Games
+description: EN.501.145 (Fall 2025) First Year Seminar
+redirect: https://maieutic-nlp.github.io/Teaching-AI-Games/
+img: assets/img/games.jpg
 importance: 2
 category: work
 giscus_comments: true
@@ -59,6 +60,9 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
+
+
+<a href="https://maieutic-nlp.github.io/Teaching-AI-Games/">Here is the link to the freshman seminar class</a>
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
