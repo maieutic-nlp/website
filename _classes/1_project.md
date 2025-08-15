@@ -2,11 +2,11 @@
 layout: page
 title: Advanced NLP: Multilingual methods
 description: EN 601.764 (Spring 2023, Spring 2024)
+redirect: http://mt-class.org/jhu-multilingual/
 img: assets/img/multilingual.jpg
 importance: 1
-redirect: http://mt-class.org/jhu-multilingual/
 category: work
-related_publications: true
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
