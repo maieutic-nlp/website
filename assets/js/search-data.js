@@ -398,9 +398,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/website/books/the_godfather/";
-            },},{id: "classes-",
-          title: '',
-          description: "",
+            },},{id: "classes-advanced-nlp-multilingual-methods",
+          title: 'Advanced NLP Multilingual methods',
+          description: "EN 601.764 (Spring 2023, Spring 2024)",
           section: "Classes",handler: () => {
               window.location.href = "/website/classes/1_project/";
             },},{id: "classes-explaining-ai-through-games",
