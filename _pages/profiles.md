@@ -25,7 +25,7 @@ profiles:
       <p>Neha Verma</p>
       <p>PhD Student</p>
   - align: left
-    image: prof_pic_nate.avif
+    image: prof_pic_nate.jpg
     content: about_nate.md
     image_circular: false # crops the image to make it circular
     more_info: >
