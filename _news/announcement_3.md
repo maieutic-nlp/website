@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1st WMDQS to take place at COLM 2025
-date: 2025-09-017 16:11:00-0400
+date: 2025-09-17 16:11:00-0400
 inline: false
 related_posts: false
 ---
