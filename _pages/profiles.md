@@ -52,6 +52,13 @@ profiles:
     more_info: >
       <p>Aidan Alme</p>
       <p>Joint Bachelor's and Master's Student</p>
+  - align: right
+    image: prof_pic_niyati.png
+    content: about_niyati.md
+    image_circular: true
+    more_info: >
+      <p>Niyati Bafna<.p>
+      <p>Affiliated PhD Student</p>
   - align: left
     image: prof_pic_haoran.jpeg
     content: about_haoran.md
