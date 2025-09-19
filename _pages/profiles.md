@@ -57,7 +57,7 @@ profiles:
     content: about_niyati.md
     image_circular: true
     more_info: >
-      <p>Niyati Bafna<.p>
+      <p>Niyati Bafna</p>
       <p>Affiliated PhD Student</p>
   - align: left
     image: prof_pic_haoran.jpeg
