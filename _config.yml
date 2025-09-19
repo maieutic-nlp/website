@@ -7,7 +7,7 @@ first_name:
 middle_name:
 last_name:
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  We would love to hear from you on any of these platforms.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is the lab website for PI Kenton Murray and his students at JHU. This theme is based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
