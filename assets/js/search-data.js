@@ -489,11 +489,25 @@ ninja.data = [{
           window.open("mailto:%66%69%72%73%74%6E%61%6D%65 @%6A%68%75.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/maieutic-nlp", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=JuP-xF8AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/maieuticlab", "_blank");
         },
       },{
       id: 'light-theme',
