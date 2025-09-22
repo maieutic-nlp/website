@@ -59,6 +59,20 @@ profiles:
     more_info: >
       <p>Niyati Bafna</p>
       <p>Affiliated PhD Student</p>
+  - align: right
+    image: prof_pic_nikhil.jpeg
+    content: about_nikhil.md
+    image_circular: true
+    more_info: >
+      <p>Nikhil Sharma</p>
+      <p>Affiliated PhD Student</p>
+  - align: right
+    image: prof_pic_alex.jpg
+    content: about_alex.md
+    image_circular: true
+    more_info: >
+      <p>Alexander Martin</p>
+      <p>Affiliated PhD Student</p>
   - align: left
     image: prof_pic_haoran.jpeg
     content: about_haoran.md

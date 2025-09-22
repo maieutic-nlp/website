@@ -1,0 +1,2 @@
+Nikhil is a second year CS PhD student at CLSP at Johns Hopkins University. He is advised by [Ziang Xiao](https://www.ziangxiao.com/). His primary research focus on understanding and shaping information flows with Conversational Agents to enable affordances for engaging in equitable, informed and constructive information seeking consumption and dissemination. Key areas include: Natural Language Processing, Human-Computer Interaction, Multi-Cultural Alignment, Multilingual NLP, Democratized AI Governance. Find out about [more of his work here](https://x.com/nikhilsksharma)
+
