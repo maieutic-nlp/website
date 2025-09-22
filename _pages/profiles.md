@@ -53,6 +53,13 @@ profiles:
       <p>Aidan Alme</p>
       <p>Joint Bachelor's and Master's Student</p>
   - align: right
+    image: prof_pic_reno.jpeg
+    content: about_reno.md
+    image_circular: true
+    more_info: >
+      <p>Reno Kriz</p>
+      <p>Affiliated Faculty</p>
+  - align: right
     image: prof_pic_niyati.png
     content: about_niyati.md
     image_circular: true
