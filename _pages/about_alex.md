@@ -1,0 +1,1 @@
+Alex is a second year PhD student at Johns Hopkins University advised by [Ben Van Durme](https://www.cs.jhu.edu/~vandurme/). The core of his research focuses on generation and reasoning that is grounded in multimodal content, primarily documents and videos.
