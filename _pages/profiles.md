@@ -9,14 +9,13 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
+  - align: left
+    image: prof_pic_kenton.jpg
     content: about_kenton.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Hackerman Hall</p>
-      <p>Johns Hopkins University</p>
-      <p>Baltimore, MD</p>
+      <p>Kenton Murray</p>
+      <p>Research Scientist, PI</p>
   - align: left
     image: prof_pic_neha.jpg
     content: about_neha.md
