@@ -436,8 +436,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/website/news/announcement_3/";
-            },},{id: "news-1st-wmdqs-to-take-place-at-colm-2025",
-          title: '1st WMDQS to take place at COLM 2025',
+            },},{id: "news-cfp-acl-tutorials",
+          title: 'CFP ACL Tutorials',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/website/news/announcement_4/";
