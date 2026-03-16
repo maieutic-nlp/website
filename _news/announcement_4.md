@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1st WMDQS to take place at COLM 2025
+title: CFP ACL Tutorials
 date: 2025-10-20 16:11:00-0400
 inline: false
 related_posts: false
