@@ -441,6 +441,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/website/news/announcement_4/";
+            },},{id: "news-founded-new-acl-sig-on-image-and-language",
+          title: 'Founded New ACL SIG on Image and Language',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/website/news/announcement_5/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
