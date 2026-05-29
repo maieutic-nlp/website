@@ -446,6 +446,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/website/news/announcement_5/";
+            },},{id: "news-maieutic-lab-is-moving-to-george-mason",
+          title: 'MAIEUTIC Lab is moving to George Mason',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/website/news/announcement_6/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
